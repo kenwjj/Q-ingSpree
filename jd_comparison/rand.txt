@@ -1,0 +1,19 @@
+ We are interested in speaking to you if you are an exceptional technologist who excels at coding, problem solving and effective delivery. This is a sought-after opportunity to work with other smart technologists  and traders to make a significant impact in an industry leading high frequency trading business. This global team of technology enthusiasts is directly aligned to the derivatives desk and are given scope to bring  value to the business through their contribution of ideas and technical skills. We are proud that traders and technologists work in partnership to deliver results.
+ By building a suite of in-house developed, real-time trading systems and algorithms across the Asia region, you’ll help the Equity Derivatives desk generate profit, focusing on market making warrants and  algorithmic strategies. Our in-house software is relied on to make profitable and sustainable income, as it is engineered to reliably price derivatives (options and warrants), send orders to market, manage  trading risk and comply with liquidity and exchange obligations.
+ Like us, you'll love working in a global team of motivated and talented C# .NET developers and quality professionals to deliver quality technology solutions in a demanding business environment. Taking on  ownership and responsibility for systems and trading regions, you will use your technical, communication and leadership skills to positively influence the agility of our team, the quality and maintainability of  our code and solutions, and the profit of the business.
+ You will work to enhance our market making systems with a view to developing smarter algorithms, improve latency and minimize slippage, and partner with the derivatives trading desk to enter new markets, building  and enhancing automated trading strategies. We also like to ensure high availability of trading systems through solid design, effective programming practices and support, as we enjoy increasing performance,  resiliency and productivity. Your debugging and troubleshooting skills, and your ability to deliver to agreed constraints of time, budget and scope will be greatly valued.
+ Working With Our Team, These Qualities Will Be Essential
+ strong C# (or Java / C++) development experience
+ experience in trading systems
+ technology enthusiast
+ These qualities would also add to your success in this role:
+ a good understanding of Equity Derivatives Markets, Cash Equities, and Equity Derivatives
+ computer Science degree or similar
+ experience in SGL Server or similar databases
+ strong analytical and problem solving skills
+ positive attitude, hunger to learn, and a track record of showing responsibility and ownership.
+ If you would like to take on a new challenge in your career, we would love to receive your application.
+ The Corporate Operations Group (COG) brings together specialist support services including workplace, human resources, market operations and technology. COG's purpose is to drive operational excellence through  business-aligned services with a focus on quality, cost and risk. COG comprises the following divisions: Business Improvement and Strategy, Business Services, Human Resources, Market Operations, and Technology.
+ Find out more about Macquarie careers at www.macquarie.com/careers
+ Macquarie understands the importance of diversity and inclusion - our long history of success has come from being different. At Macquarie we value the innovation and creativity that diversity of thought brings.  The one thing we all have in common is our focus on high performance. If you're capable, motivated and can deliver, we want you on our team.
+ We facilitate a range of flexible working arrangements within our teams. Talk to us about what flexibility may be available.

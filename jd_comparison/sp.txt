@@ -1,0 +1,18 @@
+ Squarepoint is a systematic investment manager that has deep expertise in quantitative trading, technology, and operations. We seek to achieve high quality, uncorrelated returns for our clients and develop  model-based investment strategies through rigorous scientific research. As a data-driven firm, technology is critical to our success and we design, build and operate our own state of the art systems, from high  performance automated trading platforms to large scale data science and compute farms. We have a strong learning culture and construct our teams to succeed without borders, emphasizing true collaboration between  disciplines and offices around the world.
+ Squarepoint Capital is adding to our team of world class software engineers. Selected individuals will join a highly accomplished team of professionals working directly with quantitative researchers to implement  specialized data services. Being a part of the technology team, the expectation is to follow best practices, align deliverables with strategic goals and evolve the underlying technology.
+ The candidate must be comfortable working in a fast-paced dynamic environment and be able to balance rapid tactical delivery with long term strategic work. The job involves driving cross-team initiatives and  daily interaction with quant researchers and technologists, thus good communication skills are a must.
+ Understand data needs, source data and integrate with execution platform and algorithm frameworks
+ Design and develop distributed, high volume, high velocity real-time and historical systems using kdb+ technology
+ Provide support and tools to allow end users to identify the underlying data issues or performance outliers
+ Candidate Requirements
+ Degree in Engineering, Computer Science or related subject; Masters or higher a plus
+ 2+ years experience in KDB+/Q is a must
+ Strong scripting skills in Unix/Linux (Shell/Perl/Python/…)
+ Desire to explore the underlying details and provide the root cause analysis on inquiries
+ Must be able to work well under pressure and tight deadlines
+ Team player with good communication skills
+ Additional desirable Qualifications:
+ Knowledge of the financial industry, instruments and markets
+ Experience in collaboration with quant researchers and traders
+ C++ development is considered a strong plus
+ Grid and cluster tools, especially SLURM

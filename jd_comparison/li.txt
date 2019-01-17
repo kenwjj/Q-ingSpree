@@ -1,0 +1,14 @@
+KDB Developer, Quantitative Hedge Fund, Sinagpore, 250,000 SGD (total comp)
+ My client is leading a quantitative hedge fund which engages in systematic, process-driven proprietary trading. The firm builds automated trading strategies aimed at capturing market inefficiencies across various markets and asset classes from a few milliseconds to longer term both pure arbitrage or statistical in nature. The team has an extensive history of successfully running quantitative trading strategies for more than a decade and spun out as a hedge fund last year.
+ You will join a successful team of professionals that work directly with Quant Researchers and PMs to implement specialised software for research and trading. You will be part of a technology team, but you will be expected to work with different Researchers and PMs to deliver solutions using existing tools and frameworks, and then further develop and expand out these frameworks. This role is working within the Securitised Products space so any experience with US mortgages specifically is welcomed.
+ The role encourages cross-team initiatives and daily interaction with quant researchers and technologies, so strong communication skills are essential.
+ Degree in Engineering, Computer Science or related subject; Masters or higher a plus
+ 3+ years programming experience in Q/kdb
+ Any experience/exposure to C++/Python
+ Experience with US mortgages – MBS, ABS
+ Financial knowledge and basic statistics; advanced quantitative skills a plus, but not essential
+ Self-starter: ability to rapidly learn and apply new technologies
+ Team player with excellent communication skills
+ Grid and cluster tools, especially SLURM
+ Experience in large-scale system design
+ Any specific asset class knowledge is a plus

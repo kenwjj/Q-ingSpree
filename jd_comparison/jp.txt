@@ -1,0 +1,29 @@
+ Our Corporate Technology team relies on smart, driven people like you to develop applications and provide tech support for all our corporate functions across our network. Your efforts will touch lives all over  the financial spectrum and across all our divisions: Global Finance, Corporate Treasury, Risk Management, Human Resources, Compliance, Legal, and within the Corporate Administrative Office. You’ll be part of a  team specifically built to meet and exceed our evolving technology needs, as well as our technology controls agenda.
+ As a member of our Software Engineering Group you will dive head-first into creating innovative solutions that advance businesses and careers. You’ll join an inspiring and curious team of technologists dedicated  to improving the design, analytics, development, coding, testing and application programming that goes into creating high quality software and new products. You’ll be tasked with keeping the team and other key  stakeholders up to speed on the progress of what’s being developed. Coming in with an understanding of the importance of end-to-end software development-such as Agile frameworks-is key. And best of all, you’ll be  working with and sharing ideas, information and innovation with our global team of technologists from all over the world.
+ This role requires a wide variety of strengths and capabilities, including:
+ Advanced knowledge of application, data and infrastructure architecture disciplines
+ Understanding of architecture and design across all systems
+ Working proficiency in developmental toolsets
+ Ability to collaborate with high-performing teams and individuals throughout the firm to accomplish common goals
+ Proficiency in one or more general purpose programming languages
+ Core Java
+ Java EE
+ Oracle PL/ SQL
+ Python
+ Understanding of software skills such as business analysis, development, maintenance and software improvement
+ Support the migration of the existing BAU Compliance Web trade surveillance system developed on FLEX/Java Script Web UI and Sybase SQL back-end, to the new strategic platform
+ Be part of the Global Surveillance Technology AD organization spread across of US and APAC to provide end to end design, build and delivery
+ Follow established software engineering and SDLC best practices to ensure code quality, platform performance, stability and scalability
+ Assist in Level 3 production support.
+ B.S. / M.S. degree in Computer Science, Engineering or a related discipline
+ 10+ years of application development experience in developing distributed mission-critical Trading or Transactional Analytics systems based on core Java and Java EE
+ 5+ years of database programming experience design and build enterprise-scale and high-volume Oracle data processing applications using packages, procedures, triggers, PL/SQL, Java Stored Procedures
+ 3+ years of experience in developing high-quality interactive UI and UX using Java WebUI technologies (Ext-JS, D3.JS, Angular-JS)
+ Agile development methodology and test driven development. Familiarity with automated tools as such Maven, Hudson, Jenkins, Gradle
+ Ability to work under pressure and take ownership of issues. Sense of urgency to solve problems and propose solutions
+ Strong analytical and problem-solving skills. Able to multi-task, proactive and attention to detail
+ Application development experience in delivering complicated enterprise Investment Banking application for Market Surveillance, or Investment Banking Front-office Trading Systems or Analytics Systems in FX,  Commodities, Equities and Equities Derivatives domains
+ Scala or Python experience, SpotFire and Cloud Technology
+ Experience in KDB, big data related echo systems
+ Java-based data analytics and data-mining experience
+ Financial Products knowledge of Futures & Options, FX, Commodities, Equities and Equities Derivatives, as well as trade lifecycles and/or order workflows
